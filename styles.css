@@ -1,0 +1,17 @@
+.title.first{
+    text-decoration: underline;
+}
+.title.second{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 900;
+}
+
+.link{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 900;
+    padding-left: 0.5cm;
+    text-decoration: none;
+}
+
